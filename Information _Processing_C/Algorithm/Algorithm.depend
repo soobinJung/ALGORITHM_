@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1595031820 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex1.c
+	<stdio.h>
+
+1514140574 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595032314 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex2.c
+	<stdio.h>
+
+1595033874 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex04.c
+	<stdio.h>
+
+1595034931 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex5.c
+	<stdio.h>
+
+1595039633 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex8.c
+	<stdio.h>
+
+1595042081 source:c:\users\Á¤¼öºó\desktop\c\information _processing_c\algorithm\ex9.c
+	<stdio.h>
+
